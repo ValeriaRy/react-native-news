@@ -19,3 +19,17 @@ Now run the app with
 or
 
     react-native run-android
+
+## Login credits
+
+```
+login: admin
+password: 12345678
+```
+
+or
+
+```
+login: testUser
+password: qwerty123
+```
