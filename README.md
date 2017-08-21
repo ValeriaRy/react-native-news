@@ -12,11 +12,11 @@ npm install
 
 You also need the latest version of Xcode installed on your machine as well.
 
-Now run the app with
+Now run the app om iOS
 
     react-native run-ios
 
-or
+or on Android. You need install Android Studio and run virtual device.
 
     react-native run-android
 
