@@ -12,7 +12,7 @@ npm install
 
 You also need the latest version of Xcode installed on your machine as well.
 
-Now run the app om iOS
+Now run the app on iOS
 
     react-native run-ios
 
